@@ -16,9 +16,9 @@ The following table lists which xfOpenCV kernel(s) each example aims to evaluate
 
 | Example | Function Name |
 | :------------- | :------------- |
-| accumulate | xFaccumulate |
-| accumulatesquared | xFaccumulateSquare |
-| accumulateweighted | xFaccumulateWeighted |
+| accumulate | accumulate |
+| accumulatesquared | accumulateSquare |
+| accumulateweighted | accumulateWeighted |
 | arithm | xFabsdiff, xFadd, xFsubtract, xFbitwise_and, xFbitwise_or, xFbitwise_not, xFbitwise_xor |
 | bilateralfilter | xFBilateralFilter |
 | boxfilter | xFboxfilter |
